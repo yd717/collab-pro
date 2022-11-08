@@ -1,29 +1,20 @@
 export default function AboutContent(){
   return(
     <div>
-        Code - N - Collab is a Collaboration Website
-        for Competitive Coders ,software developers and all those
-        who love to code and collaborate with others to build new
+        IftiinCode is an IDE collaboration tool curated 
+        for software development teams and 
+        who love to collaborate with others to build new
         creative things and learn from each other
       <p>
-        It has a Real-time Code editor with a feature to chat with friends,
-        and discuss problems , for competitive coders , they can fetch question from
-        the popular websites such as codeforces , codechef , etc
-      </p>
-
-      <p>
-        It also has a lockout championShip so that friends can compete
-        with each others , and also can filter type of problems they want to compete
-        on.
+        Along with a real-time code editor with a chat box to chat and discuss problems. 
       </p>
       <p>
-        To connect with the community or share knowledge or want to ask something
-        you can also post on Blogs section
+        Have trouble or suggestions for the app? let us know at help@iftiin.io
       </p>
       <p>
-        Code-N-Collab is an opensource and we would love to hear from you and see you collaborate with us
-        to solve issues or build a new feature
+        This app was taken inspiration from this awesome  <a href="https://github.com/atharmohammad/Code-N-Collab">PROJECT</a>
       </p>
+      
     </div>
   )
 }
