@@ -4,7 +4,7 @@ import { Grid, Box } from "@material-ui/core";
 import Title from "../Assets/images/imti.png";
 import GetStartedImg from "../Assets/images/BEGIN.png";
 import Stars from "../Components/Stars/Stars";
-import Back from "../Assets/images/shadow.png";
+
 
 function GetStarted() {
   const history = useHistory();
@@ -18,7 +18,7 @@ function GetStarted() {
       style={{
         height: "100vh",
         boxSizing: "border-box",
-        background={Back}",
+        background: URL("../Assets/images/shadow.png"),
       }}
     >
       <Stars color="#fff" />
