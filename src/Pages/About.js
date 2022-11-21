@@ -2,7 +2,7 @@ import { Container } from "@material-ui/core";
 import Stars from "../Components/Stars/Stars";
 import Nav from "../Components/Nav/Nav";
 import Back from "../Components/Back/Back";
-import Title from "../Assets/images/logo.png";
+import Title from "../Assets/images/imti.png";
 import Github from "../Assets/images/Github.png";
 import Admin from "../Components/About/Admin/Admin";
 import AboutContent from "../Components/About/AboutContent";
