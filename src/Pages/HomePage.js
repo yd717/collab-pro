@@ -3,7 +3,7 @@ import { v4 as uuid } from "uuid";
 import { Grid } from "@material-ui/core";
 import { useHistory, useLocation } from "react-router-dom";
 
-import HomePageImg from "../Assets/images/logo.png";
+import HomePageImg from "../Assets/images/imti.png";
 import Button from "../Components/HomePageButtons/Buttons";
 import Stars from "../Components/Stars/Stars";
 import Nav from "../Components/Nav/Nav";
