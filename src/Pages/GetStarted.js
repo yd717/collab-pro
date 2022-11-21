@@ -4,7 +4,7 @@ import { Grid, Box } from "@material-ui/core";
 import Title from "../Assets/images/imti.png";
 import GetStartedImg from "../Assets/images/BEGIN.png";
 import Stars from "../Components/Stars/Stars";
-
+import Back from "../Assets/images/shadow.png";
 
 function GetStarted() {
   const history = useHistory();
@@ -18,7 +18,7 @@ function GetStarted() {
       style={{
         height: "100vh",
         boxSizing: "border-box",
-        background: "radial-gradient(ellipse, #1b2735 0%, #090a0f 100%)",
+        background={Back}",
       }}
     >
       <Stars color="#fff" />
