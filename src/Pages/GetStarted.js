@@ -1,7 +1,7 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
 import { Grid, Box } from "@material-ui/core";
-import Title from "../Assets/images/logo.png";
+import Title from "../Assets/images/imti.png";
 import GetStartedImg from "../Assets/images/BEGIN.png";
 import Stars from "../Components/Stars/Stars";
 
