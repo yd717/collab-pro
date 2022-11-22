@@ -18,7 +18,7 @@ function GetStarted() {
       style={{
         height: "100vh",
         boxSizing: "border-box",
-        backgroundImage: url("../Assets/images/shadow.png"),
+        backgroundImage: "radial-gradient(ellipse, #EFEFEF 0%, #384C6C 100%)",
       }}
     >
       <Stars color="#fff" />
