@@ -18,7 +18,7 @@ function GetStarted() {
       style={{
         height: "100vh",
         boxSizing: "border-box",
-        document.body.style.backgroundImage: url("../Assets/images/shadow.png"),
+        backgroundImage: url("../Assets/images/shadow.png"),
       }}
     >
       <Stars color="#fff" />
