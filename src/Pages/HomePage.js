@@ -120,7 +120,9 @@ function HomePage() {
 
               <Button name="EDITZONE" clicked={roomHandler} />
               <Button name="TESTZONE" clicked={profileHandler} />
-              <Button name="PROFILEZONE" clicked={profileHandler} />
+              <a href="https://imtistre.vercel.app/">
+              <Button name="MARKETZONE" />
+               </a>
             </Grid>
           </>
         )}
