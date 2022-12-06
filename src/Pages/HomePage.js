@@ -119,7 +119,9 @@ function HomePage() {
               />
 
               <Button name="EDITZONE" clicked={roomHandler} />
+                <a href="https://main--legendary-lebkuchen-f70c57.netlify.app/">
               <Button name="TESTZONE" clicked={profileHandler} />
+                </a>
               <a href="https://imtistre.vercel.app/">
               <Button name="MARKETZONE" />
                </a>
