@@ -1,7 +1,7 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
 import { Grid, Box } from "@material-ui/core";
-import Title from "../Assets/images/smol.png";
+import Title from "../Assets/images/hub.png";
 import GetStartedImg from "../Assets/images/BEGIN.png";
 import Stars from "../Components/Stars/Stars";
 
@@ -18,7 +18,7 @@ function GetStarted() {
       style={{
         height: "100vh",
         boxSizing: "border-box",
-        background: "radial-gradient(ellipse, #EFEFEF 0%, #384C6C 100%)",
+        background: "radial-gradient(ellipse, #8956FF 0%, #171717 100%)",
       }}
     >
       <Stars color="#fff" />
