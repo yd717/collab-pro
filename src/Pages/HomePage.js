@@ -113,7 +113,7 @@ function HomePage() {
                 style={{
                  
                   width: "400px",
-                  height: "100px",
+                  height: "250px",
                 
                 }}
               />
