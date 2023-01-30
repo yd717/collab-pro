@@ -112,7 +112,7 @@ function HomePage() {
                 src={HomePageImg}
                 style={{
                  
-                  width: "400px",
+                  width: "300px",
                   height: "250px",
                 
                 }}
