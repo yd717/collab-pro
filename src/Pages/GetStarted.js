@@ -31,8 +31,8 @@ function GetStarted() {
       >
         <img
           src={Title}
-          style={{ width: "40%", minWidth: "300px" }}
-          alt="Imtijaab"
+          style={{ width: "40%", minWidth: "300px", margin: "70px" }}
+          alt="Iftiin-Hub"
         />
 
        
