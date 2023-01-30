@@ -111,8 +111,8 @@ function HomePage() {
               <img
                 src={HomePageImg}
                 style={{
-                  marginBottom: "9vh",
-                  width: "25vw",
+                  marginBottom: "10vh",
+                  width: "15vw",
                   maxWidth: "400px",
                   minWidth: "200px",
                 }}
