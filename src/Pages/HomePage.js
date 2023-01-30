@@ -125,7 +125,7 @@ function HomePage() {
               <a href="https://dynamic-pudding-ef5ae6.netlify.app/">
               <Button name="MOCKZONE" />
                </a>
-                <a href="iftiinupkeep-production.up.railway.app">
+                <a href="https://iftiinupkeep-production.up.railway.app/">
               <Button name="MONITORZONE" />
                </a>
             </Grid>
