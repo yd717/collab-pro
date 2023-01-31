@@ -102,7 +102,7 @@ export default function App(props) {
           >
         <a href='https://super-quokka-07af64.netlify.app/'>
             <div
-              style={"
+              style={{
                 background: "#8956ff",
                 color: "#fff",
                 width: "70px",
