@@ -43,7 +43,7 @@ export default function About(props) {
             <div className={classes.About}>
               Source Code
               <a
-                title= "Imtiijaab Repo"
+                title= "Iftiin-Hub Repo"
                 href="https://github.com/yd-915/collab"
                 target="_blank"
                 rel="noreferrer"
