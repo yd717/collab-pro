@@ -113,9 +113,9 @@ export default function App(props) {
                 cursor: "pointer",
                 textAlign: "center",
               }}
-              onClick={problemFetchHandler}
+              onClick={"https://super-quokka-07af64.netlify.app/"}
             >
-              Upgrade 
+            Get More
             </div>
           </Grid>
           {loader ? <Spinner /> : null}
