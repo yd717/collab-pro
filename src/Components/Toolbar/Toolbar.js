@@ -21,7 +21,7 @@ export default function Toolbar(props) {
         <img
           src={HomePageImg}
           
-          alt="Imtijaab"
+          alt="Iftiin-Hub"
           style={{ width: "100%",minHeight:'100%'}}
         />
       </Grid>
