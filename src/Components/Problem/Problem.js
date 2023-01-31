@@ -100,10 +100,9 @@ export default function App(props) {
               boxSizing: "border-box",
             }}
           >
-        
+        <a href='https://super-quokka-07af64.netlify.app/'>
             <div
-              style={{
-              
+              style={"
                 background: "#8956ff",
                 color: "#fff",
                 width: "70px",
@@ -113,10 +112,11 @@ export default function App(props) {
                 cursor: "pointer",
                 textAlign: "center",
               }}
-              onClick={"https://super-quokka-07af64.netlify.app/"}
+              
             >
             Get More
             </div>
+          </a>
           </Grid>
           {loader ? <Spinner /> : null}
         </Grid>
