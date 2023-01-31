@@ -80,9 +80,9 @@ export default function App(props) {
               wordWrap: "break-word",
             }}
           >
-           Chat feels too congested?  <br />
-           Upgrade to our paid plan to gain access to our fully-featured video communications app
-           so you and your team can take live collaboration to a whole new level.
+           Need more?  <br />
+           Upgrade to gain access to upgraded versions of iftiin-upkeep and iftiin-mock and more!
+          
             <br />
             <br />
             Level Up:
