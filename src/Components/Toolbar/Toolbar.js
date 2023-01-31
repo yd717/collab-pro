@@ -7,7 +7,7 @@ import Leave from "./BarItem/Leave";
 import Compile from "./BarItem/Compile";
 import GraphButton from "./BarItem/GraphButton";
 import FontSize from "./BarItem/FontSize";
-import HomePageImg from "../../Assets/images/HOME.png";
+import HomePageImg from "../../Assets/images/ifhub.png";
 import classes from "./Toolbar.module.css";
 import FileHandling  from "./BarItem/FileHandling";
 
