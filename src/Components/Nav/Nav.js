@@ -34,17 +34,6 @@ export default function () {
   };
 
   return (
-    <div className="headerss">
-      {auth.isLoggedIn === false ? (
-        <>
-          <NavItem Name="login / signup" clicked={loginHandler} loginUrl={location.pathname} />
-        </>
-      ) : (
-        <>
-          <NavItem Name="logout" clicked={logoutHandler} />
-        </>
-      )}
-      <NavItem Name="about" clicked={aboutHandler} />
-    </div>
+   
   );
 }
