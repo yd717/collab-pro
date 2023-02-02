@@ -118,7 +118,7 @@ function HomePage() {
                 }}
               />
 
-              <Button name="EDITZONE" clicked={roomHandler} />
+              <Button name="EDITZONE" style={{color: "#ffffff"}}clicked={roomHandler} />
                 <a href="https://main--legendary-lebkuchen-f70c57.netlify.app/">
               <Button name="TESTZONE" clicked={profileHandler} />
                 </a>
