@@ -86,7 +86,7 @@ function HomePage() {
       <div
         style={{
           minHeight: "100vh",
-          background: "radial-gradient(ellipse, #EFEFEF 0%, #384C6C 100%)",
+          background: "radial-gradient(ellipse, #8956FF 0%, #384C6C 100%)",
         }}
       >
         <Stars color="#fff" />
