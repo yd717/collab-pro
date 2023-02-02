@@ -12,7 +12,7 @@ export default function Button(props) {
         borderRadius: "20px",
         textAlign: "center",
         backgroundColor: "rgba(0, 0, 0, 0.2);",
-        color: "#8956ff",
+        color: "#fffdf2",
         fontSize: "20px",
         marginTop: "5vh",
         cursor: "pointer",
