@@ -39,7 +39,7 @@ function GetStarted() {
           <img
           onClick={homeHandler}
             src={GetStartedImg}
-            style={{ width: "200px", alignSelf: "center", height: "40px", marginBottom: "200px" }}
+            style={{ width: "200px", alignSelf: "center", height: "40px", marginBottom: "500px" }}
             alt="GetStarted"
           />
       
