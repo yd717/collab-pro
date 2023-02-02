@@ -29,11 +29,7 @@ function GetStarted() {
         alignItems="center"
         style={{ marginTop: "30vh" }}
       >
-        <img
-          src={Title}
-          style={{ width: "40%", minWidth: "200px", marginBottom: "1000px" }}
-          alt="Iftiin-Hub"
-        />
+     
 
        
           <img
