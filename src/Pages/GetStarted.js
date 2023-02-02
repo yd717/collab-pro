@@ -31,7 +31,7 @@ function GetStarted() {
       >
         <img
           src={Title}
-          style={{ width: "40%", minWidth: "200px", marginBottom: "1170px" }}
+          style={{ width: "40%", minWidth: "200px" }}
           alt="Iftiin-Hub"
         />
 
@@ -39,7 +39,7 @@ function GetStarted() {
           <img
           onClick={homeHandler}
             src={GetStartedImg}
-            style={{ width: "200px", alignSelf: "center", height: "40px" }}
+            style={{ width: "200px", alignSelf: "center", height: "40px", marginBottom: "170px" }}
             alt="GetStarted"
           />
       
