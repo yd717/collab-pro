@@ -32,7 +32,7 @@ function GetStarted() {
      
    <img
           src={Title}
-          style={{ width: "40%", minWidth: "200px", marginBottom: "4000px" }}
+          style={{ width: "40%", minWidth: "200px", marginBottom: "100px" }}
           alt="Iftiin-Hub"
         />
        
