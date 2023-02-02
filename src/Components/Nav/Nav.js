@@ -32,4 +32,20 @@ export default function () {
   const aboutHandler = () => {
     history.push("/about");
   };
+  
+  return (
+    <div className="headerss">
+      {auth.isLoggedIn === false ? (
+        <>
+
+        </>
+      ) : (
+        <>
+          <NavItem Name="logout" clicked={logoutHandler} />
+        </>
+      )}
+      <NavItem Name="about" clicked={aboutHandler} />
+    </div>
+  );
+}
 
