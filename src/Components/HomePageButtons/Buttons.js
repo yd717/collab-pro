@@ -19,7 +19,7 @@ export default function Button(props) {
         borderStyle: "1px solid",
         borderWidth: "10px",
         alignItems:'center',
-        display:'flex',
+        display:'inline-flex',
         boxShadow: '0px 5px 15px rgba(0, 0, 0, 0.2)',
         justifyContent:'center',
         textDecoration:'none',
