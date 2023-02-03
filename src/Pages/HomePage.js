@@ -3,7 +3,7 @@ import { v4 as uuid } from "uuid";
 import { Grid } from "@material-ui/core";
 import { useHistory, useLocation } from "react-router-dom";
 
-import HomePageImg from "../Assets/images/smol.png";
+import HomePageImg from "../Assets/images/mid.png";
 import Button from "../Components/HomePageButtons/Buttons";
 import Stars from "../Components/Stars/Stars";
 import Nav from "../Components/Nav/Nav";
@@ -86,7 +86,7 @@ function HomePage() {
       <div
         style={{
           minHeight: "100vh",
-          background: "radial-gradient(ellipse, #8956FF 0%, #171717 100%)",
+          background: "radial-gradient(ellipse, #77B6FF 0%, #171717 100%)",
         }}
       >
         <Stars color="#fff" />
@@ -127,6 +127,12 @@ function HomePage() {
                </a>
                 <a href="https://iftiinupkeep-production.up.railway.app/">
               <Button name="MONITORZONE" />
+               </a>
+  <a href="https://iftiinupkeep-production.up.railway.app/">
+              <Button name="MEMOZONE" />
+               </a>
+  <a href="https://iftiinupkeep-production.up.railway.app/">
+              <Button name="MOCKZONE" />
                </a>
             </Grid>
           </>
