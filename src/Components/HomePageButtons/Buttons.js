@@ -18,10 +18,10 @@ export default function Button(props) {
         cursor: "pointer",
         borderStyle: "1px solid",
         borderWidth: "10px",
-        alignItems:'center',
+       
         display:'inline-flex',
         boxShadow: '0px 5px 15px rgba(0, 0, 0, 0.2)',
-        justifyContent:'center',
+       
         textDecoration:'none',
         fontFamily: ["Fira Sans", "sans-serif"].join(),
       }}
