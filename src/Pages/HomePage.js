@@ -132,7 +132,7 @@ function HomePage() {
               <Button name="MEMOZONE" />
                </a>
   <a href="https://iftiinupkeep-production.up.railway.app/">
-              <Button name="MOCKZONE" />
+              <Button name="BOARDZONE" />
                </a>
             </Grid>
           </>
