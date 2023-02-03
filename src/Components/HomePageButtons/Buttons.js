@@ -6,7 +6,7 @@ export default function Button(props) {
     <Box
       style={{
         minHeight: "8.5vh",
-        width: "80vw",
+        width: "40vw",
         maxWidth:'300px',
         border: "1px solid #EFEFEF",
         borderRadius: "20px",
@@ -22,6 +22,7 @@ export default function Button(props) {
         display:'flex',
         boxShadow: '0px 5px 15px rgba(0, 0, 0, 0.2)',
         justifyContent:'center',
+        textDecoration:'none',
         fontFamily: ["Fira Sans", "sans-serif"].join(),
       }}
       className={classes.scale}
