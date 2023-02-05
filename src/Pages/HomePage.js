@@ -122,16 +122,16 @@ function HomePage() {
                 <a href="https://main--legendary-lebkuchen-f70c57.netlify.app/">
               <Button name="TESTZONE" clicked={profileHandler} />
                 </a>
-              <a href="https://dynamic-pudding-ef5ae6.netlify.app/">
+              <a href="https://iftiinmock.live">
               <Button name="MOCKZONE" />
                </a>
-                <a href="https://iftiinupkeep-production.up.railway.app/">
+                <a href="https://iftiinupkeep.live/">
               <Button name="MONITORZONE" />
                </a>
-  <a href="https://iftiinupkeep-production.up.railway.app/">
+  <a href="https://iftiinmemo.live">
               <Button name="MEMOZONE" />
                </a>
-  <a href="https://iftiinupkeep-production.up.railway.app/">
+  <a href="https://iftiinboard.live">
               <Button name="BOARDZONE" />
                </a>
             </Grid>
