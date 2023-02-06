@@ -119,7 +119,7 @@ function HomePage() {
               />
 
               <Button name="EDITZONE" clicked={roomHandler} />
-                <a href="https://main--legendary-lebkuchen-f70c57.netlify.app/">
+                <a href="https://www.iftiincode.com">
               <Button name="TESTZONE" clicked={profileHandler} />
                 </a>
               <a href="https://iftiinmock.live">
