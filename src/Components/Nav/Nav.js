@@ -44,7 +44,10 @@ export default function () {
           <NavItem Name="logout" clicked={logoutHandler} />
         </>
       )}
-      <NavItem Name="about" clicked={aboutHandler} />
+      <NavItem Name="About" clicked={aboutHandler} />
+         <a href="https://iftiinhubpricing.click/">
+        <NavItem Name="Pricing" />
+          </a>
     </div>
   );
 }
