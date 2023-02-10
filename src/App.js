@@ -44,7 +44,7 @@ const App = (props) => {
         await axios.get("/");
       } catch (e) {
         alert(
-          "There might be an issue\n Please reload this page\nor Try again after sometimes"
+          "Welcome to the PRO club!"
         );
       }
     }
